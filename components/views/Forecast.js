@@ -198,8 +198,8 @@ export default function Forecast({ model, geo, go, selected, setSelected }) {
           </div>
           <p className="small">
             Angka adalah rata-rata galat absolut (MAE) dalam poin APS; makin kecil makin baik. Sel tersorot adalah model terpilih.
-            ElasticNet hampir menyamai rata-rata perubahan karena regularisasinya menyusutkan banyak koefisien; hubungan antara kondisi provinsi
-            dan perubahan APS ternyata tidak linear, sehingga LightGBM lebih tepat.
+            Galat ElasticNet hampir sama dengan tebakan rata-rata perubahan: hubungan linear yang ditemukannya terlalu lemah untuk membedakan provinsi.
+            Hubungan antara kondisi provinsi dan perubahan APS ternyata tidak linear, sehingga LightGBM lebih tepat.
           </p>
           <details>
             <summary className="small strong" style={{ cursor: 'pointer' }}>Lihat metrik lengkap</summary>
