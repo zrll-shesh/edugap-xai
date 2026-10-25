@@ -1,0 +1,57 @@
+provinsi,tahun,kolom,nilai_isi,metode,sumber
+PAPUA BARAT DAYA,2021,pdrb_kapita,58450.0,nilai tahun sesudahnya,PAPUA BARAT DAYA 2023
+PAPUA BARAT DAYA,2022,pdrb_kapita,58450.0,nilai tahun sesudahnya,PAPUA BARAT DAYA 2023
+PAPUA PEGUNUNGAN,2021,pdrb_kapita,16870.0,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2023
+PAPUA PEGUNUNGAN,2022,pdrb_kapita,16870.0,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2023
+PAPUA SELATAN,2021,pdrb_kapita,58581.0,nilai tahun sesudahnya,PAPUA SELATAN 2023
+PAPUA SELATAN,2022,pdrb_kapita,58581.0,nilai tahun sesudahnya,PAPUA SELATAN 2023
+PAPUA TENGAH,2021,pdrb_kapita,103508.0,nilai tahun sesudahnya,PAPUA TENGAH 2023
+PAPUA TENGAH,2022,pdrb_kapita,103508.0,nilai tahun sesudahnya,PAPUA TENGAH 2023
+PAPUA BARAT DAYA,2021,pengeluaran_makanan,810863.0,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA BARAT DAYA,2022,pengeluaran_makanan,810863.0,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA BARAT DAYA,2023,pengeluaran_makanan,810863.0,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA PEGUNUNGAN,2021,pengeluaran_makanan,1157571.0,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA PEGUNUNGAN,2022,pengeluaran_makanan,1157571.0,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA PEGUNUNGAN,2023,pengeluaran_makanan,1157571.0,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA SELATAN,2021,pengeluaran_makanan,749474.0,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA SELATAN,2022,pengeluaran_makanan,749474.0,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA SELATAN,2023,pengeluaran_makanan,749474.0,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA TENGAH,2021,pengeluaran_makanan,887039.0,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA TENGAH,2022,pengeluaran_makanan,887039.0,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA TENGAH,2023,pengeluaran_makanan,887039.0,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA BARAT DAYA,2021,air_minum_layak,81.68,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA BARAT DAYA,2022,air_minum_layak,81.68,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA BARAT DAYA,2023,air_minum_layak,81.68,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA PEGUNUNGAN,2021,air_minum_layak,30.64,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA PEGUNUNGAN,2022,air_minum_layak,30.64,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA PEGUNUNGAN,2023,air_minum_layak,30.64,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA SELATAN,2021,air_minum_layak,71.9,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA SELATAN,2022,air_minum_layak,71.9,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA SELATAN,2023,air_minum_layak,71.9,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA TENGAH,2021,air_minum_layak,81.53,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA TENGAH,2022,air_minum_layak,81.53,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA TENGAH,2023,air_minum_layak,81.53,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA BARAT DAYA,2021,listrik,98.05,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA BARAT DAYA,2022,listrik,98.05,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA BARAT DAYA,2023,listrik,98.05,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA PEGUNUNGAN,2021,listrik,73.66,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA PEGUNUNGAN,2022,listrik,73.66,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA PEGUNUNGAN,2023,listrik,73.66,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA SELATAN,2021,listrik,80.61,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA SELATAN,2022,listrik,80.61,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA SELATAN,2023,listrik,80.61,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA TENGAH,2021,listrik,56.08,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA TENGAH,2022,listrik,56.08,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA TENGAH,2023,listrik,56.08,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA BARAT DAYA,2021,pou,20.53,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA BARAT DAYA,2022,pou,20.53,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA BARAT DAYA,2023,pou,20.53,nilai tahun sesudahnya,PAPUA BARAT DAYA 2024
+PAPUA PEGUNUNGAN,2021,pou,27.26,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA PEGUNUNGAN,2022,pou,27.26,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA PEGUNUNGAN,2023,pou,27.26,nilai tahun sesudahnya,PAPUA PEGUNUNGAN 2024
+PAPUA SELATAN,2021,pou,29.26,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA SELATAN,2022,pou,29.26,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA SELATAN,2023,pou,29.26,nilai tahun sesudahnya,PAPUA SELATAN 2024
+PAPUA TENGAH,2021,pou,37.69,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA TENGAH,2022,pou,37.69,nilai tahun sesudahnya,PAPUA TENGAH 2024
+PAPUA TENGAH,2023,pou,37.69,nilai tahun sesudahnya,PAPUA TENGAH 2024

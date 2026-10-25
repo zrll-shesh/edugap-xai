@@ -1,0 +1,7 @@
+variabel_tetangga,label,moran_I_bv,z_sim,p_sim,signifikan
+miskin,Penduduk Miskin (%),-0.37366,-3.72919,0.0004,True
+pou,Prevalensi Kurang Gizi (%),-0.36958,-3.66699,0.0003,True
+air_minum_layak,Air Minum Layak (%),0.28147,2.79109,0.0117,True
+listrik,Rumah Tangga Berlistrik (%),0.27339,2.70979,0.0116,True
+rls,Rata-rata Lama Sekolah (th),0.16467,1.63621,0.0626,False
+log_pdrb_kapita,log PDRB per Kapita,0.00215,0.0178,0.4987,False

@@ -1,0 +1,28 @@
+konteks,kelas_awal,kelas_berikut,jumlah,probabilitas
+Semua,Rendah,Rendah,38,0.8444
+Semua,Rendah,Sedang,7,0.1556
+Semua,Rendah,Tinggi,0,0.0
+Semua,Sedang,Rendah,7,0.1556
+Semua,Sedang,Sedang,32,0.7111
+Semua,Sedang,Tinggi,6,0.1333
+Semua,Tinggi,Rendah,0,0.0
+Semua,Tinggi,Sedang,6,0.125
+Semua,Tinggi,Tinggi,42,0.875
+Tetangga lemah,Rendah,Rendah,23,0.8846
+Tetangga lemah,Rendah,Sedang,3,0.1154
+Tetangga lemah,Rendah,Tinggi,0,0.0
+Tetangga lemah,Sedang,Rendah,5,0.2174
+Tetangga lemah,Sedang,Sedang,16,0.6957
+Tetangga lemah,Sedang,Tinggi,2,0.087
+Tetangga lemah,Tinggi,Rendah,0,0.0
+Tetangga lemah,Tinggi,Sedang,1,0.05
+Tetangga lemah,Tinggi,Tinggi,19,0.95
+Tetangga kuat,Rendah,Rendah,15,0.7895
+Tetangga kuat,Rendah,Sedang,4,0.2105
+Tetangga kuat,Rendah,Tinggi,0,0.0
+Tetangga kuat,Sedang,Rendah,2,0.0909
+Tetangga kuat,Sedang,Sedang,16,0.7273
+Tetangga kuat,Sedang,Tinggi,4,0.1818
+Tetangga kuat,Tinggi,Rendah,0,0.0
+Tetangga kuat,Tinggi,Sedang,5,0.1786
+Tetangga kuat,Tinggi,Tinggi,23,0.8214

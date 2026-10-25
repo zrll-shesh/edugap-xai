@@ -1,0 +1,8 @@
+rule_id,aturan,support,confidence,lift,p_fisher,q_fdr,stabilitas,panjang
+R1,AirMinum=Rendah & RLS=Rendah  =>  APS16-18=Rendah,0.13483,0.70588,2.12961,0.0,0.0,0.734,2
+R2,KetahananPangan=Tinggi & RLS=Sedang  =>  APS16-18=Rendah,0.10112,0.75,2.26271,1e-05,3e-05,0.664,2
+R3,AirMinum=Rendah & Listrik=Rendah  =>  APS16-18=Rendah,0.11236,0.71429,2.15496,1e-05,3e-05,0.656,2
+R4,AirMinum=Rendah & Pengangguran=Sedang  =>  APS16-18=Rendah,0.10674,0.67857,2.04722,4e-05,0.0001,0.636,2
+R5,AirMinum=Rendah & Kemiskinan=Rendah  =>  APS16-18=Rendah,0.09551,0.77273,2.33128,1e-05,3e-05,0.624,2
+R6,AirMinum=Rendah & LingkunganMiskin=Rendah  =>  APS16-18=Rendah,0.09551,0.85,2.56441,0.0,0.0,0.622,2
+R7,KurangGizi=Tinggi & RLS=Rendah  =>  APS16-18=Rendah,0.11798,0.63636,1.91988,7e-05,0.00011,0.606,2

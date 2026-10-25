@@ -1,0 +1,15 @@
+fitur,label,blok,mean_abs_shap,porsi_persen
+listrik,Rumah Tangga Berlistrik (%),Sosial-ekonomi & pendidikan,0.54673,19.27266
+miskin,Penduduk Miskin (%),Sosial-ekonomi & pendidikan,0.35328,12.45328
+ikp,Indeks Ketahanan Pangan,Sosial-ekonomi & pendidikan,0.30946,10.90861
+log_pengeluaran_makanan,log Pengeluaran Makanan,Sosial-ekonomi & pendidikan,0.29138,10.27143
+tpt,Pengangguran Terbuka (%),Sosial-ekonomi & pendidikan,0.26008,9.16798
+log_pdrb_kapita,log PDRB per Kapita,Sosial-ekonomi & pendidikan,0.22409,7.8994
+air_minum_layak,Air Minum Layak (%),Sosial-ekonomi & pendidikan,0.15795,5.56777
+pou,Prevalensi Kurang Gizi (%),Sosial-ekonomi & pendidikan,0.13422,4.73138
+aps_13_15,APS 13-15 (%),Sosial-ekonomi & pendidikan,0.12735,4.48927
+tpak,TPAK (%),Sosial-ekonomi & pendidikan,0.12378,4.3634
+aps_16_18,APS 16-18 (%),Sosial-ekonomi & pendidikan,0.10533,3.71309
+rls,Rata-rata Lama Sekolah (th),Sosial-ekonomi & pendidikan,0.09809,3.45768
+rule_max_conf,Confidence Maks Aturan Risiko,Pola (aturan asosiasi),0.08184,2.88506
+rule_count,Jumlah Aturan Risiko Terpenuhi,Pola (aturan asosiasi),0.02323,0.81899

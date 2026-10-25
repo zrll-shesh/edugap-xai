@@ -1,0 +1,21 @@
+antecedent,support,confidence,lift,p_fisher,q_fdr,stabilitas
+AirMinum=Rendah & LingkunganMiskin=Rendah,0.09551,0.85,2.56441,0.0,0.0,0.622
+AirMinum=Rendah & Kemiskinan=Rendah,0.09551,0.77273,2.33128,1e-05,3e-05,0.624
+KetahananPangan=Tinggi & RLS=Sedang,0.10112,0.75,2.26271,1e-05,3e-05,0.664
+AirMinum=Rendah & Kemiskinan=Rendah & TPAK=Sedang,0.08427,0.75,2.26271,6e-05,0.00011,0.51
+AirMinum=Rendah & Listrik=Rendah & RLS=Rendah,0.08427,0.75,2.26271,6e-05,0.00011,0.484
+AirMinum=Rendah & Pengangguran=Rendah,0.09551,0.73913,2.22992,2e-05,5e-05,0.56
+AirMinum=Rendah & KurangGizi=Tinggi & RLS=Rendah,0.09551,0.73913,2.22992,2e-05,5e-05,0.594
+AirMinum=Rendah & Listrik=Rendah,0.11236,0.71429,2.15496,1e-05,3e-05,0.656
+AirMinum=Rendah & RLS=Rendah,0.13483,0.70588,2.12961,0.0,0.0,0.734
+LingkunganAPS=Sedang & Pengangguran=Sedang,0.08989,0.69565,2.09875,0.00014,0.00022,0.518
+AirMinum=Rendah & LingkunganAPS=Rendah,0.08427,0.68182,2.05701,0.00036,0.00042,0.49
+AirMinum=Rendah & Pengangguran=Sedang,0.10674,0.67857,2.04722,4e-05,0.0001,0.636
+AirMinum=Rendah & KurangGizi=Tinggi,0.09551,0.65385,1.97262,0.00028,0.00035,0.536
+KurangGizi=Rendah & RLS=Sedang,0.09551,0.65385,1.97262,0.00028,0.00035,0.496
+AirMinum=Rendah & PengeluaranMakanan=Tinggi,0.10112,0.64286,1.93947,0.00024,0.00034,0.516
+KurangGizi=Tinggi & RLS=Rendah,0.11798,0.63636,1.91988,7e-05,0.00011,0.606
+AirMinum=Rendah,0.20225,0.61017,1.84085,0.0,0.0,0.574
+Pengangguran=Sedang & TPAK=Sedang,0.09551,0.60714,1.83172,0.00105,0.00117,0.468
+KetahananPangan=Rendah & RLS=Rendah,0.08427,0.6,1.81017,0.00278,0.00278,0.376
+KurangGizi=Tinggi & Listrik=Rendah & RLS=Rendah,0.08427,0.6,1.81017,0.00278,0.00278,0.388

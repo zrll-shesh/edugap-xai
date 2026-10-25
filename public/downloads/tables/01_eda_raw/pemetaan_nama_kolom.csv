@@ -1,0 +1,23 @@
+kolom_asli,kolom_baru
+Provinsi,provinsi
+Tahun,tahun
+APS 7-12,aps_7_12
+APS 13-15,aps_13_15
+APS 16-18,aps_16_18
+APS 19-23,aps_19_23
+Tingkat Pengangguran Terbuka (persen),tpt
+Angkatan Kerja Terhadap Penduduk Usia Kerja (TPAK) (persen),tpak
+Garis Kemiskinan (Rupiah/Kapita/Bulan),garis_kemiskinan
+Penduduk Miskin (persen),miskin
+Indeks Pembangunan Manusia (IPM),ipm
+Rata-rata Lama Sekolah (Tahun),rls
+Harapan Lama Sekolah (Tahun),hls
+Indeks Ketahanan Pangan,ikp
+Luas Panen Tanaman Padi (ha) (Ha),luas_panen_padi
+Produktivitas Tanaman Padi (ku/ha) (Ku/ha),produktivitas_padi
+Rekap Produksi Padi (ton) (Ton),produksi_padi
+Produk Domestik Regional Bruto per Kapita (ribu rupiah),pdrb_kapita
+Rata-rata Pengeluaran per Kapita Sebulan Makanan (rupiah),pengeluaran_makanan
+Persentase Rumah Tangga yang Memiliki Akses terhadap Sumber Air Minum Layak (persen),air_minum_layak
+Persentase Rumah Tangga menurut Provinsi dan Sumber Penerangan Utama dari Listrik,listrik
+Prevalence of Undernourishment (Percent),pou

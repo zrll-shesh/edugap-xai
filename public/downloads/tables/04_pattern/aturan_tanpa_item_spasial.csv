@@ -1,0 +1,7 @@
+antecedent,support,confidence,lift,p_fisher,q_fdr,stabilitas,panjang,rule_id
+AirMinum=Rendah & RLS=Rendah,0.13483,0.70588,2.12961,0.0,1e-05,0.734,2,R1
+KetahananPangan=Tinggi & RLS=Sedang,0.10112,0.75,2.26271,1e-05,3e-05,0.664,2,R2
+AirMinum=Rendah & Listrik=Rendah,0.11236,0.71429,2.15496,1e-05,3e-05,0.656,2,R3
+AirMinum=Rendah & Pengangguran=Sedang,0.10674,0.67857,2.04722,4e-05,0.0001,0.636,2,R4
+AirMinum=Rendah & Kemiskinan=Rendah,0.09551,0.77273,2.33128,1e-05,3e-05,0.624,2,R5
+KurangGizi=Tinggi & RLS=Rendah,0.11798,0.63636,1.91988,7e-05,0.0001,0.606,2,R6
